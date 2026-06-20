@@ -1,0 +1,37 @@
+body{
+    margin: 38px;
+    font-family: Inter;
+}
+.blog-section{
+    border: 1px solid black;
+    padding:51px;
+}
+h1{
+    text-decoration: underline;
+    font-size: 64px;;
+}
+.blog-section p{
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 100%;
+}
+.blog-section a{
+    text-decoration: underline;
+    font-size: 40px;
+}
+.image-section{
+    display:flex;
+    flex-direction: column;
+}
+.image-section a{
+    text-decoration: underline;
+    font-size: 40px;
+    margin-top: 30px;
+}
+.image-section img{
+    width: 1051px;
+}
+.trivia-section ol{
+    font-size:40px;
+    line-height: 100%;
+}
